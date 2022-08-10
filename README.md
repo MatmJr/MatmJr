@@ -10,7 +10,7 @@
 - 📫 Contato **marco.mialaret@betrybe.com**
 Próximos passos: 
 
-- [ ] 
+- [  ] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
