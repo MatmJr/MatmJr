@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá, sou o Marco Mialaret Júnior</h1>
-<h3 align="Left">Pessoa Instrutora na [Trybe]:(https://www.betribe.com), sou mestre em Matemátia(UFPB) e Doutorando em Ciência da Computação(UFPE).</h3>
+<h3 align="Left">Sou mestre em Matemátia(UFPB) e Doutorando em Ciência da Computação(UFPE). Instrutor de ciência da computação na Trybe(https://www.betribe.com). Um apaixonado por Matemática e Python.</h3>
 
 <h3 align="Left">Este é meu repositório pessoal que contém estudos na área de computação. Sinta-se a vontade para deixar contribuições ou me seguir nas redes sociais.</h3>
 
