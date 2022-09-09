@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá, sou o Marco Mialaret Júnior</h1>
-<h3 align="Left">Pessoa Instrutora na [Trybe](https://www.betribe.com), sou mestre em Matemátia(UFPB) e Doutorando em Ciência da Computação(UFPE).</h3>
+<h3 align="Left">Pessoa Instrutora na [Trybe]:(https://www.betribe.com), sou mestre em Matemátia(UFPB) e Doutorando em Ciência da Computação(UFPE).</h3>
 
 <h3 align="Left">Este é meu repositório pessoal que contém estudos na área de computação. Sinta-se a vontade para deixar contribuições ou me seguir nas redes sociais.</h3>
 
@@ -13,9 +13,10 @@
 </p>
 - 📫 Contato **marco.mialaret@betrybe.com**
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="center"> 
-[![My Skills](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker,vscode,matlab,js,r,python" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matmjr&show_icons=true&locale=en&theme=city_lights&layout=compact" alt="matmjr" /></p>
