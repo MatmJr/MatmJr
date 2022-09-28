@@ -40,6 +40,6 @@
 
 <div align="center">
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=anypqg9428Y" target="_blank"><img width="275px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br />
+<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="275px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br />
 </div>
 
