@@ -12,6 +12,7 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="center">
+
 <a href="https://www.linkedin.com/in/marco-mialaret-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marco mialaret junior-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:marcomialaret@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcomialaret@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
