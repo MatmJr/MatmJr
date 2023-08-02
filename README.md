@@ -28,13 +28,6 @@
 
 -----
 
-<h3 align="left"> Estastísticas:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matmjr&theme=monokai&locale=pt-br"/>
-</p>
-
------
-
 <div align="center">
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
 <a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="275px" src="https://i.ytimg.com/vi/pnGdK_SQlw8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpaGalR_SXJm1kwwvsfLrVGv_5qA" alt="Trybe-Fi"></a><br />
