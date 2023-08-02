@@ -22,18 +22,14 @@
 <h3 align="left">Ferramentas, Linguagens e </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker,vscode,matlab,python,r" />    
+    <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker,vscode,matlab,python,r,java" />    
   </a>  
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matmjr&show_icons=true&locale=pt-br&theme=monokai" alt="matmjr" />
 </p>
 
 -----
 
 <h3 align="left"> Estastísticas:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matmjr&theme=monokai&show_icons=true&locale=pt-br" alt="matmjr" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matmjr&theme=monokai&locale=pt-br"/>
 </p>
 
