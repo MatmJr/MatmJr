@@ -2,9 +2,10 @@
 <h1 align="left">Olá, sou o Marco Mialaret Júnior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matmjr&label=Profile%20views&color=0e75b6&style=flat" alt="matmjr" /> </p>
 
-<h3 align="Left">Sou Licenciado(<a href="http://www.dm.ufrpe.br/" target="_blank">UFRPE</a>) e mestre em Matemátia(<a href="http://www.mat.ufpb.br/dm/" target="_blank">UFPB</a>), atualmente estou no Doutorado em Ciência da Computação(<a href="https://portal.cin.ufpe.br/" target="_blank">Cin/UFPE</a>). Atuo como pesquisador(<a href="https://www.modcs.org/" target="_blank">MoDCS</a>) e Instrutor de ciência da computação(<a href="https://www.betribe.com" target="_blank">Trybe</a>).</h3>
+<h3 align="left"> Um apaixonado por Matemática e Computação.</h3>
 
-<h3 align="left"> Um apaixonado por Matemática e Python.</h3>
+<h3 align="Left">Sou Licenciado(<a href="http://www.dm.ufrpe.br/" target="_blank">UFRPE</a>) e mestre em Matemática(<a href="http://www.mat.ufpb.br/dm/" target="_blank">UFPB</a>), possuo um curso tecnólogo de Banco de Dados(<a href="https://www.ead.senac.br" target="_blank">SENAC-EAD</a>) e atualmente estou no Doutorado em Ciência da Computação(<a href="https://portal.cin.ufpe.br/" target="_blank">Cin/UFPE</a>). Atuo como pesquisador(<a href="https://www.modcs.org/" target="_blank">MoDCS</a>).</h3>
+
 
 <h3 align="Left">Este é meu repositório pessoal que contém estudos na área de computação. Sinta-se a vontade para deixar contribuições ou me seguir nas redes sociais.</h3>
 
@@ -25,11 +26,4 @@
     <code> <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker,vscode,matlab,python,r,java" /> </code>    
   </a>  
 </p>
-
------
-
-<div align="center">
-:headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=4TrA4aSOHvY" target="_blank"><img width="275px" src="https://i.ytimg.com/vi/pnGdK_SQlw8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpaGalR_SXJm1kwwvsfLrVGv_5qA" alt="Trybe-Fi"></a><br />
-</div>
 
