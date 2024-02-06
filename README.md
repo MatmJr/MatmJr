@@ -16,8 +16,9 @@
 <h3 align="left">Ferramentas & Linguagens</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <code> <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker,vscode,matlab,python,r,java" /> </code>    
-  </a>  
+    <code> <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgres,docker,vscode,idea,androidstudio,matlab"/> </code>
+    <code> <img src="https://skillicons.dev/icons?i=python,sklearn,flask,django,fastapi,r,java,spring,kotlin"/> </code>
+  </a>
 </p>
 
 -----
