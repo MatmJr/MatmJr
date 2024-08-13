@@ -6,8 +6,6 @@ github
     <img src="https://komarev.com/ghpvc/?username=matmjr&label=Profile%20views&color=0e75b6&style=flat" alt="matmjr" /> 
 </p>
 
-<h3 align="left">Apaixonado por Matemática e Computação</h3>
-
 <h3 align="Left">Sou Licenciado em Matemática pela <a href="http://www.dm.ufrpe.br/" target="_blank">UFRPE</a>, Mestre em Matemática pela <a href="http://www.mat.ufpb.br/dm/" target="_blank">UFPB</a>, possuo formação tecnológica em Banco de Dados pelo <a href="https://www.ead.senac.br" target="_blank">SENAC-EAD</a> e atualmente estou cursando Doutorado em Ciência da Computação no <a href="https://portal.cin.ufpe.br/" target="_blank">Cin/UFPE</a>. Atuo como pesquisador no <a href="https://www.modcs.org/" target="_blank">MoDCS</a>, focando na área de Confiabilidade de Sistemas. Minha linha de pesquisa atual é sobre Probability Distribution Fitting.</h3>
 
 <h3 align="Left">Este é o meu repositório pessoal, que contém estudos na área de computação. Sinta-se à vontade para deixar contribuições ou me seguir nas redes sociais.</h3>
